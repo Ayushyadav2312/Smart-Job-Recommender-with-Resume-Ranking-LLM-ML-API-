@@ -7,7 +7,7 @@ def extract_summary_and_skills(file_path: str):
 
     client = Groq(api_key="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")
 
-    prompt = f"Extract skills from this resume:\n\n{resume_text}"
+    prompt = f"Extract key skills and experince from this resume:\n\n{resume_text}"
 
     response = client.chat.completions.create(
         messages=[{"role": "user", "content": prompt}],
