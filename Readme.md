@@ -23,3 +23,9 @@ This project is an AI-powered job recommendation system that automatically parse
 | Web Interface    | Streamlit                    |
 | Resume Handling  | PyPDF2, Text Extraction      |
 | Utilities        | Requests, Scikit-learn, JSON |
+
+
+# Author:
+ Ayush Kumar
+ Github
+ 
