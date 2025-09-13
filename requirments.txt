@@ -1,5 +1,8 @@
 streamlit
+groq
+python-dotenv
 PyPDF2
-scikit-learn
 requests
-anthropic  # or actual SDK for Claude/Gemini
+pandas
+scikit-learn
+fastapi
