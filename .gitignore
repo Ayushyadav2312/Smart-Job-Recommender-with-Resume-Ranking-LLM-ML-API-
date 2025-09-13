@@ -1,2 +1,4 @@
 .env
 _pycache_
+jobs_data.json
+main.py

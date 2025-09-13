@@ -5,7 +5,7 @@ This project is an AI-powered job recommendation system that automatically parse
 # Features:
 
 -Resume parsing using Claude or Gemini API
--Real-time job listing integration via LinkedIn Job Search API
+-Real-time job listing integration via LinkedIn Job Search API (** Due to shortage og Api keys, prestored joblisting are used.)
 -Cosine similarity-based job recommendation engine
 -Resume ranking based on skill-job match
 -Streamlit chatbot interface for resume review and suggestions
@@ -17,7 +17,7 @@ This project is an AI-powered job recommendation system that automatically parse
 | Component        | Technology                   |
 | ---------------- | ---------------------------- |
 | Language         | Python 3.x                   |
-| LLM Integration  | Claude / Gemini              |
+| LLM Integration  | Groq             |
 | Job API          | LinkedIn Job Search API      |
 | Machine Learning | TF-IDF, Cosine Similarity    |
 | Web Interface    | Streamlit                    |
